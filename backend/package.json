@@ -1,0 +1,29 @@
+{
+  "name": "graphql-cms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gt2rz/graphql-cms.git"
+  },
+  "author": "Miguel Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gt2rz/graphql-cms/issues"
+  },
+  "homepage": "https://github.com/gt2rz/graphql-cms#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/node": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "apollo-server": "^2.9.16",
+    "graphql": "^14.6.0"
+  }
+}
